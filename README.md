@@ -142,7 +142,7 @@ Players can customize their experience through the Settings menu:
 ## 🚀 Getting Started
 
 ### Prerequisites:
-- Unity 2023.x or later (project configured for modern versions)
+- Unity 6000.3.2f1 
 - No external dependencies required beyond built-in Unity packages
 
 ### Installation:
